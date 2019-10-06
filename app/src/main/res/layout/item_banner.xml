@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@color/white"
+    app:cardElevation="@dimen/dp_5"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="@dimen/dp_10"
+    app:cardMaxElevation="@dimen/dp_10"
+    app:cardPreventCornerOverlap="true"
+    android:layout_height="200dp">
+
+    <com.youth.banner.Banner
+        android:id="@+id/home_banner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.youth.banner.Banner>
+
+</androidx.cardview.widget.CardView>

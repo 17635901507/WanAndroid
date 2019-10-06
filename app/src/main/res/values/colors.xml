@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorText">#2C2C2C</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="white">#fff</color>
+    <color name="dialog_background">#ffffff</color>
+    <color name="comment_line">#dddddd</color>
+    <color name="while_most_color">#e4e4e4</color>
+    <color name="grey_bg">#EDEDED</color>
+    <color name="deep_red">#dc3b1f</color>
+    <color name="light_red">#e26d2e</color>
+    <!--通用触摸背景色-->
+    <color name="common_touch_bg">#E3E3E3</color>
+    <!--通用背景色-->
+    <color name="common_bg">@color/white</color>
+    <color name="colorCard">#FFFFFF</color>
+    <color name="title_black">#222222</color>
+    <color name="grey_search">#FF999999</color>
+    <color name="light_deep_red">#f9382a</color>
+    <color name="delete_text">#cccccc</color>
+    <color name="colorPrimaryOverlay">#00abff</color>
+    <color name="comment_text">#5b5d5c</color>
+    <color name="deep_grey">#e6e6e6</color>
+</resources>

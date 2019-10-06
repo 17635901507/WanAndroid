@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">WanAndroid</string>
+
+    <string name="useful_sites">常用网站</string>
+    <string name="action_search">搜索</string>
+    <string name="scale_down_show_behavior"></string>
+
+    <string name="text_error_net_exception">网络异常</string>
+    <string name="text_error_server_exception">服务器错误</string>
+    <string name="text_error_un_know_exception">未知错误</string>
+    <string name="text_wanandroid">WanAndroid</string>
+    <string name="text_like">收藏</string>
+    <string name="text_setting">设置</string>
+    <string name="text_about">关于</string>
+    <string name="login_in">登录</string>
+    <string name="text_home">首页</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">打开侧滑</string>
+    <string name="drawer_close">关闭侧滑</string>
+    <string name="text_knowledge">知识体系</string>
+    <string name="text_me">我的</string>
+    <string name="text_navigation">导航</string>
+    <string name="text_project">项目</string>
+    <string name="share_view">shareView</string>
+    <string name="text_tencent">公众号</string>
+
+    <string name="text_usage">常用网站</string>
+    <string name="search_tint">发现更多干货</string>
+    <string name="hot_search">热搜</string>
+    <string name="clear_all">清空</string>
+    <string name="history_search">搜索历史</string>
+    <string name="search_null_tint">快来搜点干货吧*≧▽≦*</string>
+
+</resources>

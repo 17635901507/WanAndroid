@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/ic_navigation_bg"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:foreground="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:padding="@dimen/dp_16"
+    android:layout_height="200dp">
+
+    <ImageView
+        android:id="@+id/main_head_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        android:contentDescription="@null"
+        ></ImageView>
+    <TextView
+        android:id="@+id/nav_header_login_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/login_in"
+        android:layout_marginTop="@dimen/dp_60"
+        android:textSize="@dimen/sp_20"
+        android:textColor="@color/white" />
+
+</FrameLayout>

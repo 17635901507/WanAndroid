@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">libloadingview</string>
+    <string name="text_reload">重新加载</string>
+</resources>
